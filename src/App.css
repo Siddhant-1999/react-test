@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.cart-img{
+  width: 50px;
+  float: right;
+  height: 50px;
+}
+
+
+.cart-wrapper{
+  float: left;
+  border: 1px solid black;
+  height: auto;
+  width: 500px;
+}
+
+.count{
+  border: 1px solid black;
+    background: red;
+    color: white;
+    border-radius: 50%;
+    font-weight: bold;
+    float: right;
+}
